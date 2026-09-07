@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I'm a third-year undergraduate student majoring in Big Data at [Fuzhou University](https://www.fzu.edu.cn/). My research interests include big data development, graph machine learning, and data mining.
+我是福州大学大数据专业大三本科生。我的研究方向包括大数据开发与数据挖掘。
 
-I have hands-on experience with Python, Java, C++. I work with Hadoop, Spark, Hive for offline big data processing. I use Pandas, NumPy, Scikit-learn for data mining tasks and have basic knowledge of XGBoost, LightGBM and Graph Neural Networks.
+我具备 Python、Java、C++ 的实操能力，能够使用 Hadoop、Spark、Hive 完成离线大数据处理；运用 Pandas、NumPy、Scikit-learn 开展数据挖掘工作，掌握 XGBoost、LightGBM 以及图神经网络的基础知识。
 
-My goal is to pursue an academic master's degree in Computer Science / Big Data, focusing on big data and graph intelligence.
+课余时间，我喜欢慢跑、阅读科普读物以及探索开源项目。
+
+我的目标是攻读计算机科学 / 大数据方向的学术型硕士，研究方向聚焦于大数据与图智能。
 
 [Email](mailto:1057387943@qq.com) / [Github](https://github.com/wqwabc) / [Wechat](../images/wechat.jpg)
 
